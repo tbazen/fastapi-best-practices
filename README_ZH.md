@@ -62,7 +62,7 @@ fastapi-project
 │   │   ├── constants.py
 │   │   ├── exceptions.py
 │   │   └── utils.py
-│   └── posts
+│   ├── posts
 │   │   ├── router.py
 │   │   ├── schemas.py
 │   │   ├── models.py
